@@ -338,7 +338,7 @@ const jobs = [
     details:"Reduced data processing time by 40% by building a scalable healthcare data lake on AWS S3 and developing ELT pipelines using DBT, Snowflake, and Airflow. Improved analytics performance through STAR schema modeling and enabled business reporting via Tableau dashboards. Designed an MS SQL Server data model with automated date-based backups and historical tracking, supporting visualization and monitoring of 800K+ monthly healthcare records to generate actionable business insights."
   },
   {
-    img:"/images/vw.jpg",
+    img:"/images/VW.jpg",
     title:"Full Stack Developer",
     company:"Volkswagen",
       details:"Improved user experience by 20% by integrating vehicle equipment services through Spring Boot microservices on AWS while contributing to PRN platform development. Increased online sales by 30% by building authentication workflows, search APIs, and newsletter features using AEM, Java, and React. Reduced data processing latency by 20% by designing an optimized MongoDB architecture supporting real-time customer data for ~400K CMS users."
