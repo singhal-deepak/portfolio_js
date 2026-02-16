@@ -420,7 +420,7 @@ const jobs = [
             "Reduced data processing time by 40% by building a scalable healthcare data lake on AWS S3 and developing ELT pipelines using DBT, Snowflake, and Airflow. Improved analytics performance through STAR schema modeling and enabled business reporting via Tableau dashboards. Designed an MS SQL Server data model with automated date-based backups and historical tracking, supporting visualization and monitoring of 800K+ monthly healthcare records to generate actionable business insights.",
     },
     {
-        img: "/images/vw.jpg",
+        img: "/images/VW.jpg",
         title: "Full Stack Developer",
         company: "Volkswagen",
         years: "2020 – 2021",
